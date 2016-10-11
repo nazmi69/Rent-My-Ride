@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "763636662383",
+    "firebase_url": "https://ridemycar-18233.firebaseio.com",
+    "project_id": "ridemycar-18233",
+    "storage_bucket": "ridemycar-18233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763636662383:android:d581faf93c598221",
+        "android_client_info": {
+          "package_name": "com.ridemycar.ridemycar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763636662383-ie4e010hn10u353522b0ftoghk493m0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ridemycar.ridemycar",
+            "certificate_hash": "7FB19C3ADBA5167FD1C8400FD88B14209F329987"
+          }
+        },
+        {
+          "client_id": "763636662383-p2cef0efu63u3rt182crq0gr5idoc275.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmLPOnGk0oe2H6Tjmmg94qVgRg1HXlNoc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763636662383-p2cef0efu63u3rt182crq0gr5idoc275.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
